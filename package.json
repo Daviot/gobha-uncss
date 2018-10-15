@@ -1,0 +1,30 @@
+{
+  "name": "gobha-uncss",
+  "version": "0.0.1",
+  "description": "A metalsmith plugin based on uncss https://www.npmjs.com/package/uncss",
+  "main": "uncss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daviot/gobha-uncss.git"
+  },
+  "keywords": [
+    "gobha",
+    "metalsmith",
+    "stylesheet",
+    "uncss",
+    "css"
+  ],
+  "author": "Daviot <gobha@daviot.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daviot/gobha-uncss/issues"
+  },
+  "homepage": "https://github.com/Daviot/gobha-uncss#readme",
+  "dependencies": {
+    "minimatch": "^3.0.4",
+    "uncss": "^0.16.1"
+  }
+}
