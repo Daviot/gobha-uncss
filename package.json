@@ -1,6 +1,6 @@
 {
   "name": "gobha-uncss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A metalsmith plugin based on uncss https://www.npmjs.com/package/uncss",
   "main": "uncss.js",
   "scripts": {
